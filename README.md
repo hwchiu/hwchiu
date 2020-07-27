@@ -1,9 +1,16 @@
 ### Hi there 👋
+![HungWei's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hwchiu&show_icons=true&theme=radical)
+
+- 🔭 I’m currently working on Open Networking Foundations
+- 🌱 I’m currently learning Kuberentes / Linux / Ansible / AWS / Terraform
+
 
 <!--
 **hwchiu/hwchiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Hi there 👋
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
